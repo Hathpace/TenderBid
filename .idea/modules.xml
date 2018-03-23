@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TenderBid.iml" filepath="$PROJECT_DIR$/TenderBid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tenderBid-api/tenderBid-api.iml" filepath="$PROJECT_DIR$/tenderBid-api/tenderBid-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tenderBid-model/tenderBid-model.iml" filepath="$PROJECT_DIR$/tenderBid-model/tenderBid-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tenderBid-rpc/tenderBid-rpc.iml" filepath="$PROJECT_DIR$/tenderBid-rpc/tenderBid-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tenderBid-service/tenderBid-service.iml" filepath="$PROJECT_DIR$/tenderBid-service/tenderBid-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tenderBid-web-toB/tenderBid-web-toB.iml" filepath="$PROJECT_DIR$/tenderBid-web-toB/tenderBid-web-toB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tenderBid-web-toC/tenderBid-web-toC.iml" filepath="$PROJECT_DIR$/tenderBid-web-toC/tenderBid-web-toC.iml" />
+    </modules>
+  </component>
+</project>
